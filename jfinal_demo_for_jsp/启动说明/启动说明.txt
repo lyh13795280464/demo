@@ -18,14 +18,4 @@
 
 注意： 请确保您安装了 JavaSE 1.6 或更高版本，tomcat下运行项目需要先删除 jetty-server-xxx.jar，否则会有冲突
 
-master删除所有并branch
-本次本机master分支commit之后push branch看看什么效果
-本次本机master分支commit之后push to upstream看看什么效果
-本次本机liuyh分支commit之后putu branch看看什么效果
-本次本机liuyh分支commit之后push to upstream看看什么效果
-本次本机master分支添加内容需要liuyh分支更新
-本次本机liuyh分支添加内容合并master添加的内容
-master在27行添加了内容
-liu在27行添加了内容
-yh在29行添加了内容并push branch
-yh多加了一行并push branch
+master又删除了所有并push to upstream
